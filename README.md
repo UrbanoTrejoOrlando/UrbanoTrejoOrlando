@@ -39,7 +39,7 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
 
 ### ⚙️ Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
@@ -61,6 +61,11 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" height="40" alt="mongo logo"  />
+  <img width="12" />
+  
+
+  
 </div>
 
 ---
@@ -69,11 +74,14 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/windows8/original.svg" height="40" alt="windows logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"/>
+
 </div>
 
 ---
