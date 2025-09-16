@@ -113,27 +113,8 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LibreOffice_Logo.svg" height="40" alt="LibreOffice logo" />
 </div>
 
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Orlando-Urbano-Trejo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orlando-Urbano-Trejo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif"  />
-</div>
-
-###
