@@ -1,26 +1,6 @@
-<h1 align="center">¡Hola Bienvenido!👋</h1>
+<h1 align="center">¡Hola Bienvenido!</h1>
 
-###
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAM/viciadoemcodar.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Orlando-Urbano-Trejo.Orlando-Urbano-Trejo&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
