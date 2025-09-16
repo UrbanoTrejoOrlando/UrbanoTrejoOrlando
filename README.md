@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, bienvenido a mi perfil! 👋</h1>
+<h1 align="center">¡Hola, bienvenido a mi perfil!</h1>
 
 <p align="center">
 Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado por la tecnología, el aprendizaje continuo y los proyectos innovadores. 
