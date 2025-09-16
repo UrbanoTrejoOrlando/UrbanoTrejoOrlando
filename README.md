@@ -1,14 +1,39 @@
 <h1 align="center">¡Hola Bienvenido!</h1>
 
+<h3 align="left">⚡ Habilidades</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/1041/1041883.png" width="40"/><br>
+      <b>Trabajo en equipo</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40"/><br>
+      <b>Aprendizaje rápido</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828955.png" width="40"/><br>
+      <b>Adaptabilidad</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" width="40"/><br>
+      <b>Capacidad Comunicativa</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="40"/><br>
+      <b>Proactividad</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">¡Hola! Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales, actualmente cursando el séptimo semestre. Con 20 años y desde México, me entusiasma la tecnología y estoy en constante búsqueda de aprender nuevas habilidades y enfrentar desafíos. Me motiva destacar en el campo tecnológico y siempre estoy dispuesto a participar en proyectos innovadores que me permitan crecer profesionalmente.<br><br>Estoy comprometido con el desarrollo de soluciones creativas y eficientes, y espero colaborar con equipos que compartan mi entusiasmo por la programación y la tecnología. Si estás buscando a alguien con pasión, dedicación y ganas de aprender, ¡me encantaría conectar contigo!</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
