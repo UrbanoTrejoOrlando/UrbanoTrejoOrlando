@@ -27,11 +27,15 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="40" alt="node logo" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="node logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/express/original-wordmark.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40" alt="css logo" />
   <img width="12" />
 
   
