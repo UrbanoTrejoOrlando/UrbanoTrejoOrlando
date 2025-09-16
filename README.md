@@ -1,37 +1,19 @@
-<h1 align="center">¡Hola Bienvenido!</h1>
+<h1 align="center">¡Hola, bienvenido a mi perfil! 👋</h1>
 
-<h3 align="left">⚡ Habilidades</h3>
+<p align="center">
+Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado por la tecnología, el aprendizaje continuo y los proyectos innovadores. 
+</p>
 
-<div align="center">
+---
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/1041/1041883.png" width="40"/><br>
-      <b>Trabajo en equipo</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40"/><br>
-      <b>Aprendizaje rápido</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828955.png" width="40"/><br>
-      <b>Adaptabilidad</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" width="40"/><br>
-      <b>Capacidad Comunicativa</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="40"/><br>
-      <b>Proactividad</b>
-    </td>
-  </tr>
-</table>
+### ⚡ Habilidades
 
-</div>
+- 🤝 Trabajo en equipo  
+- 📚 Aprendizaje rápido  
+- 🔄 Adaptabilidad  
+- 🗣️ Capacidad comunicativa  
+- 🚀 Proactividad  
+
 
 
 
