@@ -114,7 +114,6 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LibreOffice_Logo.svg" height="40" alt="LibreOffice logo" />
 </div>
 
 
