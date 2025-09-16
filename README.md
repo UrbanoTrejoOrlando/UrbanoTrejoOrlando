@@ -102,6 +102,8 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
 ### 🧪 Herramientas de Prueba
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://logo.svgcdn.com/l/insomnia.svg" height="40" alt="Insomnia logo" />
 </div>
 
 ---
