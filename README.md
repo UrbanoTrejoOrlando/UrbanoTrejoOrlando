@@ -25,6 +25,7 @@ Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/react/original.svg"></img>
+  <img width="12" />
 </div>
 
 ---
