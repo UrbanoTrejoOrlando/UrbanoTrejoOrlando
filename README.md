@@ -19,8 +19,28 @@ Experiencia desarrollando aplicaciones web full stack con integración de bases 
 
 ## 🧠 Stack Tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,nodejs,express,react,mysql,mongodb,git,github,docker,linux" />
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,py,ts" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 🔧 DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vim,postman" />
 </p>
 
 ---
@@ -34,14 +54,6 @@ Experiencia desarrollando aplicaciones web full stack con integración de bases 
 
 ---
 
-## 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrbanoTrejoOrlando&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🧩 Proyectos
 
 <table>
@@ -49,7 +61,7 @@ Experiencia desarrollando aplicaciones web full stack con integración de bases 
 <td width="50%">
 
 <a href="https://github.com/UrbanoTrejoOrlando/Proyecto-Sistema-De-Reservacion-Turnos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=Proyecto-Sistema-De-Reservacion-Turnos&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=Proyecto-Sistema-De-Reservacion-Turnos&theme=default&hide_border=true"/>
 </a>
 
 <br/>
@@ -60,8 +72,8 @@ Gestión de citas médicas mediante API REST, integración con React y persisten
 
 <td width="50%">
 
-<a href="https://github.com/UrbanoTrejoOrlando/punto-venta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=punto-venta&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/UrbanoTrejoOrlando/Punto_De_Venta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=Punto_De_Venta&theme=default&hide_border=true"/>
 </a>
 
 <br/>
@@ -74,8 +86,8 @@ Gestión de ventas, inventario y usuarios con persistencia en base de datos.
 <tr>
 <td width="50%">
 
-<a href="https://github.com/UrbanoTrejoOrlando/sistema-qr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=sistema-qr&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/UrbanoTrejoOrlando/Sistema-Asistencia-Codigo-QR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=Sistema-Asistencia-Codigo-QR&theme=default&hide_border=true"/>
 </a>
 
 <br/>
