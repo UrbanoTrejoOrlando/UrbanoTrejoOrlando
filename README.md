@@ -1,119 +1,104 @@
-<h1 align="center">¡Hola, bienvenido a mi perfil!</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UrbanoTrejoOrlando/UrbanoTrejoOrlando/main/assets/banner.png" width="100%" />
+</p>
+
+<h1 align="center">👨‍💻 Orlando Urbano Trejo</h1>
 
 <p align="center">
-Soy estudiantes de <b>Ingeniería en Sistemas Computacionales</b>, interesado por la tecnología, el aprendizaje continuo y los proyectos innovadores. 
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1F4E79&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+APIs+%7C+Databases;Node.js+%7C+React+%7C+MySQL+%7C+MongoDB" />
 </p>
 
 ---
 
-### ⚡ Habilidades
+## 💼 Perfil
 
-- 🤝 Trabajo en equipo  
-- 📚 Aprendizaje rápido  
-- 🔄 Adaptabilidad  
-- 🗣️ Capacidad comunicativa  
-- 🚀 Proactividad  
-
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+Desarrollador enfocado en backend y construcción de APIs.
+Experiencia desarrollando aplicaciones web full stack con integración de bases de datos y despliegue en la nube.
 
 ---
 
+## 🧠 Stack Tecnológico
 
-### 🌐 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,nodejs,express,react,mysql,mongodb,git,github,docker,linux" />
+</p>
 
 ---
 
+## 📊 Estadísticas
 
-### ⚙️ Backend
-<div align="left">
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UrbanoTrejoOrlando&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrbanoTrejoOrlando&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### 🗄️ Bases de Datos
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" height="40" alt="mongo logo"  />
-  <img width="12" />
-</div>
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrbanoTrejoOrlando&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-### 💻 Sistemas Operativos
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/windows8/original.svg" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"/>
-</div>
+## 🧩 Proyectos
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/UrbanoTrejoOrlando/Proyecto-Sistema-De-Reservacion-Turnos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=Proyecto-Sistema-De-Reservacion-Turnos&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+<b>Sistema de Citas Médicas</b><br/>
+Gestión de citas médicas mediante API REST, integración con React y persistencia en MySQL y MongoDB.
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/UrbanoTrejoOrlando/punto-venta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=punto-venta&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+<b>Punto de Venta</b><br/>
+Gestión de ventas, inventario y usuarios con persistencia en base de datos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<a href="https://github.com/UrbanoTrejoOrlando/sistema-qr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UrbanoTrejoOrlando&repo=sistema-qr&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+<b>Sistema QR</b><br/>
+Control de asistencia en tiempo real mediante generación y validación de códigos QR.
+
+</td>
+
+<td width="50%">
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🔧 Control de Versiones y DevOps
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
-</div>
+## 🌐 Contacto
 
----
-
-### 🧪 Herramientas de Prueba
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://logo.svgcdn.com/l/insomnia.svg" height="40" alt="Insomnia logo" />
-</div>
-
----
-
-### 🎨 Diseño y Otros
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="12" />
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/UrbanoTrejoOrlando">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
